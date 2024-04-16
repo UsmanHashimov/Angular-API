@@ -1,0 +1,11 @@
+C:\Users\A C E R   N I T R O\Documents\.NET\Exam\TicketingSystem\TicketingSystem.Domain\bin\Debug\net8.0\TicketingSystem.Domain.deps.json
+C:\Users\A C E R   N I T R O\Documents\.NET\Exam\TicketingSystem\TicketingSystem.Domain\bin\Debug\net8.0\TicketingSystem.Domain.dll
+C:\Users\A C E R   N I T R O\Documents\.NET\Exam\TicketingSystem\TicketingSystem.Domain\bin\Debug\net8.0\TicketingSystem.Domain.pdb
+C:\Users\A C E R   N I T R O\Documents\.NET\Exam\TicketingSystem\TicketingSystem.Domain\obj\Debug\net8.0\TicketingSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A C E R   N I T R O\Documents\.NET\Exam\TicketingSystem\TicketingSystem.Domain\obj\Debug\net8.0\TicketingSystem.Domain.AssemblyInfoInputs.cache
+C:\Users\A C E R   N I T R O\Documents\.NET\Exam\TicketingSystem\TicketingSystem.Domain\obj\Debug\net8.0\TicketingSystem.Domain.AssemblyInfo.cs
+C:\Users\A C E R   N I T R O\Documents\.NET\Exam\TicketingSystem\TicketingSystem.Domain\obj\Debug\net8.0\TicketingSystem.Domain.csproj.CoreCompileInputs.cache
+C:\Users\A C E R   N I T R O\Documents\.NET\Exam\TicketingSystem\TicketingSystem.Domain\obj\Debug\net8.0\TicketingSystem.Domain.dll
+C:\Users\A C E R   N I T R O\Documents\.NET\Exam\TicketingSystem\TicketingSystem.Domain\obj\Debug\net8.0\refint\TicketingSystem.Domain.dll
+C:\Users\A C E R   N I T R O\Documents\.NET\Exam\TicketingSystem\TicketingSystem.Domain\obj\Debug\net8.0\TicketingSystem.Domain.pdb
+C:\Users\A C E R   N I T R O\Documents\.NET\Exam\TicketingSystem\TicketingSystem.Domain\obj\Debug\net8.0\ref\TicketingSystem.Domain.dll

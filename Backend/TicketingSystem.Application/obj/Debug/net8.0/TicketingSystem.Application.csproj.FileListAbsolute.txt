@@ -1,0 +1,17 @@
+C:\Users\A C E R   N I T R O\Documents\.NET\Exam\TicketingSystem\TicketingSystem.Application\bin\Debug\net8.0\TicketingSystem.Application.deps.json
+C:\Users\A C E R   N I T R O\Documents\.NET\Exam\TicketingSystem\TicketingSystem.Application\bin\Debug\net8.0\TicketingSystem.Application.runtimeconfig.json
+C:\Users\A C E R   N I T R O\Documents\.NET\Exam\TicketingSystem\TicketingSystem.Application\bin\Debug\net8.0\TicketingSystem.Application.dll
+C:\Users\A C E R   N I T R O\Documents\.NET\Exam\TicketingSystem\TicketingSystem.Application\bin\Debug\net8.0\TicketingSystem.Application.pdb
+C:\Users\A C E R   N I T R O\Documents\.NET\Exam\TicketingSystem\TicketingSystem.Application\bin\Debug\net8.0\TicketingSystem.Domain.dll
+C:\Users\A C E R   N I T R O\Documents\.NET\Exam\TicketingSystem\TicketingSystem.Application\bin\Debug\net8.0\TicketingSystem.Domain.pdb
+C:\Users\A C E R   N I T R O\Documents\.NET\Exam\TicketingSystem\TicketingSystem.Application\obj\Debug\net8.0\TicketingSystem.Application.csproj.AssemblyReference.cache
+C:\Users\A C E R   N I T R O\Documents\.NET\Exam\TicketingSystem\TicketingSystem.Application\obj\Debug\net8.0\TicketingSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A C E R   N I T R O\Documents\.NET\Exam\TicketingSystem\TicketingSystem.Application\obj\Debug\net8.0\TicketingSystem.Application.AssemblyInfoInputs.cache
+C:\Users\A C E R   N I T R O\Documents\.NET\Exam\TicketingSystem\TicketingSystem.Application\obj\Debug\net8.0\TicketingSystem.Application.AssemblyInfo.cs
+C:\Users\A C E R   N I T R O\Documents\.NET\Exam\TicketingSystem\TicketingSystem.Application\obj\Debug\net8.0\TicketingSystem.Application.csproj.CoreCompileInputs.cache
+C:\Users\A C E R   N I T R O\Documents\.NET\Exam\TicketingSystem\TicketingSystem.Application\obj\Debug\net8.0\Ticketin.DEB13D46.Up2Date
+C:\Users\A C E R   N I T R O\Documents\.NET\Exam\TicketingSystem\TicketingSystem.Application\obj\Debug\net8.0\TicketingSystem.Application.dll
+C:\Users\A C E R   N I T R O\Documents\.NET\Exam\TicketingSystem\TicketingSystem.Application\obj\Debug\net8.0\refint\TicketingSystem.Application.dll
+C:\Users\A C E R   N I T R O\Documents\.NET\Exam\TicketingSystem\TicketingSystem.Application\obj\Debug\net8.0\TicketingSystem.Application.pdb
+C:\Users\A C E R   N I T R O\Documents\.NET\Exam\TicketingSystem\TicketingSystem.Application\obj\Debug\net8.0\TicketingSystem.Application.genruntimeconfig.cache
+C:\Users\A C E R   N I T R O\Documents\.NET\Exam\TicketingSystem\TicketingSystem.Application\obj\Debug\net8.0\ref\TicketingSystem.Application.dll

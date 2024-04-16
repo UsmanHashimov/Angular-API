@@ -1,0 +1,21 @@
+<table class="table">
+    <thead>
+      <tr>
+        <th scope="col">ID</th>
+        <th scope="col">Name</th>
+        <th scope="col">Email</th>
+        <th scope="col">TicketId</th>
+      </tr>
+    </thead>
+    <tbody>
+    
+        @for (user of users; track user.id) {
+      <tr>
+        <th scope="row">{{user.id}}</th>
+        <td>{{user.username}}</td>
+        <td>{{user.email}}</td>
+        <td>{{user.ticketId}}</td>
+      </tr>
+    }
+    </tbody>
+  </table>
